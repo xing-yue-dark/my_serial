@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/CMakeFiles/GMock"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/CMakeFiles/GMock.rule"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/CMakeFiles/GMock-complete.rule"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-install.rule"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-mkdir.rule"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-download.rule"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-update.rule"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-patch.rule"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-configure.rule"
+		},
+		{
+			"file" : "/home/wkj/\u684c\u9762/\u4ed3\u5e93/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GMock"
+		],
+		"name" : "GMock"
+	}
+}

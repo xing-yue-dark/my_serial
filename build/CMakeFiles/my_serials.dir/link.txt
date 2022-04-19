@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/my_serials.dir/my_serial.cpp.o -o devel/lib/serial/my_serials  -Wl,-rpath,/home/wkj/桌面/仓库/my_serial/my_serial/build/devel/lib devel/lib/libserial.so -lrt -lpthread 

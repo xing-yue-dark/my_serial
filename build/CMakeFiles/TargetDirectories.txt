@@ -1,0 +1,15 @@
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/install/strip.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/install/local.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/tests.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/clean_test_results.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/download_extra_data.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/doxygen.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/my_serials.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/_catkin_empty_exported_target.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/serial.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/test.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/edit_cache.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/rebuild_cache.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/run_tests.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/list_install_components.dir
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/install.dir

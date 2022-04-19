@@ -1,0 +1,13 @@
+# Target labels
+ GMock
+# Source files and their labels
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/GMock
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/GMock.rule
+/home/wkj/桌面/仓库/my_serial/my_serial/build/CMakeFiles/GMock-complete.rule
+/home/wkj/桌面/仓库/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-install.rule
+/home/wkj/桌面/仓库/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-mkdir.rule
+/home/wkj/桌面/仓库/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-download.rule
+/home/wkj/桌面/仓库/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-update.rule
+/home/wkj/桌面/仓库/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-patch.rule
+/home/wkj/桌面/仓库/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-configure.rule
+/home/wkj/桌面/仓库/my_serial/my_serial/build/GMock-prefix/src/GMock-stamp/GMock-build.rule

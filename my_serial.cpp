@@ -2,15 +2,10 @@
 #include <string>
 #include <iostream>
 #include <cstdio>
-#include<exception>
-
-// OS Specific sleep
-#ifdef _WIN32
-#include <windows.h>
-#else
+//c++标准异常库
+#include <exception>
+//linux时钟库
 #include <unistd.h>
-#endif
-
 
 #include "serial/serial.h"
 
@@ -21,14 +16,6 @@ using std::cerr;
 using std::endl;
 using std::vector;
 using std::cin;
-
-void my_sleep(unsigned long milliseconds) {
-#ifdef _WIN32
-      Sleep(milliseconds); // 100 ms
-#else
-      usleep(milliseconds*1000); // 100 ms
-#endif
-}
 
 void run()
 {

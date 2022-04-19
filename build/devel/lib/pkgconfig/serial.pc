@@ -1,0 +1,8 @@
+prefix=/home/wkj/桌面/仓库/my_serial/my_serial/build/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/wkj/桌面/仓库/my_serial/my_serial/include
+Libs: -L${prefix}/lib -lserial -lrt -lpthread
+Requires: 
